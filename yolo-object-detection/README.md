@@ -113,7 +113,5 @@ Additional examples are available in the `results/` directory.
 ## Future Improvements
 
 * Hyperparameter optimization
-* Larger YOLO models (YOLO11s / YOLO11m)
 * Data augmentation experiments
-* Model quantization
 * Real-time video inference
