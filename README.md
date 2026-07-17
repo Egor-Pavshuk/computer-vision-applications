@@ -5,17 +5,15 @@ This repository contains practical computer vision projects implemented in Pytho
 ## Repository Structure
 
 ```text
-Computer-Vision/
+computer-vision-applications/
 │
 ├── face-recognition/
-│   ├── FaceRecognition.ipynb
+│   ├── notebooks/
+│   │   └──FaceRecognition.ipynb
 │   └── README.md
 │
-├── yolo/
-│   ├── YOLO.ipynb
-│   └── README.md
-│
-├── requirements.txt
+├── yolo-object-detection/
+├── README.md
 └── .gitignore
 ```
 
