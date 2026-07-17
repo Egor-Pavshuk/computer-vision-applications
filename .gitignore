@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model weights
+*.pt
+*.pth
+*.onnx
+*.engine
+
+# NumPy / Pickle
+*.npy
+*.npz
+*.pkl
+
+# Training outputs
+yolo-object-detection/runs/detect/train/weights
+wandb/
+logs/
+
+# Dataset
+yolo-object-detection/dataset/train
+yolo-object-detection/dataset/valid/
+yolo-object-detection/dataset/test/
+
+# Temporary
+tmp/
+temp/
+
+# Ultralytics
+args.yaml
