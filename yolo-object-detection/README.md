@@ -33,9 +33,9 @@ yolo-object-detection/
 ├── models/
 ├── runs/
 ├── src/
-    ├── predict.py
-    ├── utils.py
-    └── train.py
+│   ├── predict.py
+│   ├── utils.py
+│   └── train.py
 ├── main.py
 ├── requirements.txt
 └── README.md
