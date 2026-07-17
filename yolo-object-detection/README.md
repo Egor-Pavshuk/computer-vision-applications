@@ -110,6 +110,17 @@ The confusion matrix illustrates the classification performance for each object 
 
 Additional examples are available in the `results/` directory.
 
+## Training Configuration
+| Parameter  |       Value |
+| ---------- | ----------: |
+| Model      |     YOLOv8n |
+| Epochs     |         50 |
+| Image size |         640 |
+| Batch size |          16 |
+| Confidence  |         0.4 |
+| Framework  | Ultralytics |
+
+
 ## Future Improvements
 
 * Hyperparameter optimization
