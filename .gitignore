@@ -39,6 +39,7 @@ logs/
 yolo-object-detection/dataset/train
 yolo-object-detection/dataset/valid/
 yolo-object-detection/dataset/test/
+yolo-object-detection/dataset/data.yaml
 
 # Temporary
 tmp/
